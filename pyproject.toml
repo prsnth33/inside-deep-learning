@@ -2,7 +2,7 @@
 name = "inside-deep-learning"
 version = "0.1.0"
 description = ""
-authors = ["Prasanth Balaraman <prasanth.balaraman@genesys.com>"]
+authors = ["Prasanth Balaraman <prasanth.balaraman.engineer@gmail.com>"]
 readme = "README.md"
 packages = [{include = "inside_deep_learning"}]
 
